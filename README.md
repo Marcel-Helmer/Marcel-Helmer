@@ -18,4 +18,12 @@ Java · Go · Python · JavaScript · HTML/CSS · SQL · MySQL · Git
 
 ## Portfolio Projects
 
-I am currently building anonymized demo projects that reflect typical tasks in reporting, billing, and data processing without publishing internal or confidential project data.
+I build anonymized demo projects and case studies that reflect typical tasks in reporting, billing, data processing, ERP-related workflows, and process automation without publishing internal or confidential project data.
+
+### Current Projects
+
+- [Go CSV Report Generator](https://github.com/Marcel-Helmer/go-csv-report-generator)  
+  A Go demo project that reads structured CSV data and generates a PDF report in table format.
+
+- [ERPNext EV Charging Billing Case Study](https://github.com/Marcel-Helmer/project-case-studies/blob/main/erpnext-ev-charging-billing-case-study.md)  
+  An anonymized case study about an ERPNext/Frappe-based workflow for processing EV charging reimbursements in a payroll-related context.
